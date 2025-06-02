@@ -1,0 +1,13 @@
+Dear Hiring Team,
+
+I am writing to express my strong interest in new opportunities as a QA Automation Engineer. With over 2.5 years of dedicated experience in both manual and automation testing, I bring a proven track record of enhancing software quality and streamlining testing processes.
+
+My expertise lies in building robust and scalable automation frameworks. At NielsenIQ, I successfully developed Selenium frameworks using Java for UI automation and RestAssured for API automation, which significantly reduced manual testing efforts by 60% and achieved an impressive 90% regression test coverage. I am proficient in integrating these solutions with tools like TestNG, Maven, and Jenkins, enabling efficient CI/CD pipelines that cut feedback cycles by 70%. My experience also includes comprehensive functional, regression, smoke, UI/UX, integration, and API testing, alongside cross-browser testing using Selenium Grid and Sauce Labs.
+
+I am skilled in utilizing a wide array of tools for effective test management and defect tracking, including Jira and TestRail. My work involves creating detailed test plans, test cases, and traceability matrices, and generating clear reports using Extent Reports and Allure. I thrive in collaborative agile development environments, working closely with development and DevOps teams to ensure seamless integration and optimal pipeline performance. My technical foundation spans Java, Python, SQL, and various databases like Oracle and Apache Hive, complemented by experience with Azure and Docker.
+
+Thank you for considering my qualifications. My resume, detailing my projects like the ECLIPSE GUI Regression Suite and ECLIPSE Data Regression, is attached for your review. I am eager to contribute my automation and quality assurance expertise to a forward-thinking organization and look forward to discussing how my skills can benefit your team.
+
+Sincerely,
+
+Sagar Bhilawade
