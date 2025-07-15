@@ -1,0 +1,21 @@
+1.Which are the latest selenium locators got introduced in 4.x version ?
+2.Can you write code for Taking a screen shot ?
+3.What is testNg?
+4.How will you fail a testcase in testNg ? if it doesn't get executed within 60 seconds then you have to fail the test case .
+5. How will you skip testcase in testNg?
+6.Explain Listners and how you use it ?
+7.How can we run parallel testcases in testng?
+8.What is difference betn factory and DataProvider annotation?
+9.Explain @BeforeSuite and @AfterSuite .
+10.Have you heard about cikulli ?
+11.How can we locate an element in xpath using partial value of attribute?(with regex and contains() method )
+12.Which Browser driver is fastest driver ?
+13What is the fundamental difference between xpath and css selector ?
+14.what is difference to driver.get() and driver.navigate().to()?
+15.How would you setup failure notification in Jenkins ?
+
+
+
+ 
+
+

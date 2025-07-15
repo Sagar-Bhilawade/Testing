@@ -1,0 +1,22 @@
+
+### Refined Project Plan:
+
+1.  UI Automation (Selenium): Use `https://www.automationexercise.com/` to automate scenarios like:
+     User Registration and Login/Logout.
+     Browse product categories and searching for products.
+     Adding products to the cart and updating quantities.
+     Proceeding through the checkout flow (entering shipping/billing, mock payment).
+     Viewing order history.
+     Testing contact forms or subscription features.
+
+2.  API Automation (RestAssured): Continue to use `https://dummyjson.com/` to practice your RestAssured skills. This site offers mock APIs for:
+     Products: Fetching product details, searching products.
+     Carts: Simulating adding/removing items from a cart.
+     Users: User authentication, fetching user profiles.
+     Orders: Creating and retrieving mock orders.
+
+3.  Database Testing: Set up a local database (e.g., MySQL via XAMPP/WAMP, PostgreSQL, or SQLite for a very lightweight option) on your machine.
+     You can then write Java code to connect to this database and perform SQL queries.
+     Crucially: You can simulate the data interactions. For instance, after your RestAssured test successfully "adds a product to a cart" on `dummyjson.com`, you could write a piece of code to insert that "cart data" into your local database. Then, you'd run a SQL query on your local DB to "verify" that the data was correctly stored, thus practicing the full API-to-DB validation flow.
+
+This approach ensures you hit every skill you want to refresh: Java, Selenium, RestAssured, POM, Data-Driven, TestNG, Reporting, Maven, Git, CI/CD, and Database Testing, with a stable and functional UI practice site.

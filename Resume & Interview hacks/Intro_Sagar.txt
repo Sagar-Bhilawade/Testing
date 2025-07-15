@@ -1,9 +1,9 @@
 Good morning/afternoon [Interviewer's Name, if known, otherwise just 'team'],
 
-Thank you for this opportunity to speak with you. My name is Sagar Bhilawade, and I'm a QA Automation Engineer with over 2.5 years of experience in both manual and automation testing.
+Thank you for this opportunity to introduce myself. My name is Sagar Bhilawade, and I'm a QA Automation Engineer with over 2.5 years of experience in both manual and automation testing.
 
-At NielsenIQ, I've focused on building and improving our hybrid automation frameworks using Java with Selenium for UI and RestAssured for API automation. A key highlight has been automating over 550+ test cases, which drove our data regression coverage to 100% and GUI regression coverage to 80%. This significantly reduced manual testing by 60% for our important CIP-PLUTO applications.
+At NielsenIQ, I've focused on building and improving our hybrid automation frameworks using Java with Selenium for UI and RestAssured for API automation. A key highlight has been automating over 550+ test cases, which drove our data regression coverage to 90% and GUI regression coverage to 80%. This significantly reduced manual testing by 60% for our important CIP-PLUTO applications.
 
-I have strong practical experience across the entire automation process. This includes designing stable frameworks using Page Object Model and Data-Driven approaches (with Apache POI). I also integrate tests smoothly into Jenkins CI/CD pipelines and create clear Allure and Extent Reports for easy quality tracking. My testing expertise covers functional, integration, and API validation against databases like Oracle and Apache Hive.
+I have strong practical experience across the entire automation process. This includes designing stable frameworks using Page Object Model and Data-Driven approaches (with Apache POI). I also integrate tests smoothly into Jenkins CI/CD pipelines and create clear Extent Reports for easy quality tracking. My testing expertise covers functional, integration, and API validation against databases like Oracle and Apache Hive.
 
 Besides my main skills, I have a basic understanding of Python, Playwright, and Gauge for BDD frameworks, and I'm currently learning Cucumber and Docker. I'm confident my ability to create and manage effective automation solutions, combined with my dedication to continuous learning, will be a valuable asset to your team.
